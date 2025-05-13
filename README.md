@@ -1,6 +1,6 @@
 # Olga Urentseva
 
-Software engineer with 4 years of experience in front-end development and a solid understanding of full-stack web development. Skilled in graphic and UI/UX design, proficient with modern front-end technologies, and experienced in backend development. Focused on delivering practical solutions that balance technical excellence with business goals.
+Software engineer with more than 4 years of experience in front-end development and a solid understanding of full-stack web development. Skilled in graphic and UI/UX design, proficient with modern front-end technologies, and experienced in backend development. Focused on delivering practical solutions that balance technical excellence with business goals.
 
 Having worked on numerous projects with various teams and built several products from scratch, I've developed a strong intuition for product development — quickly recognising which decisions will be useful and which will not.
 
