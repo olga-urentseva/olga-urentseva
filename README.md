@@ -82,3 +82,5 @@ Figma, Adobe Photoshop, Adobe Illustrator, Affinity Design
 ---
 
 Thanks for visiting my profile and checking out my projects!
+
+<img src="https://media1.tenor.com/m/W0DwukIXlskAAAAd/programming.gif" width="300" alt="huh" />
