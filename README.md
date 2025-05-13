@@ -2,28 +2,21 @@
 
 Software engineer with 4 years of experience in front-end development and a solid understanding of full-stack web development. Skilled in graphic and UI/UX design, proficient with modern front-end technologies, and experienced in backend development. Focused on delivering practical solutions that balance technical excellence with business goals.
 
-Having worked on numerous projects with various teams and built several products from scratch, I’ve developed a strong intuition for product development — quickly recognising which decisions will be useful and which will not.
+Having worked on numerous projects with various teams and built several products from scratch, I've developed a strong intuition for product development — quickly recognising which decisions will be useful and which will not.
 
 - [LinkedIn](https://www.linkedin.com/in/olga-urentseva/)
 - 📧 o.urentseva@gmail.com
 
----
-
-
-### Projects I Built From Scratch (and I'm Most Proud Of)
+## 🚀 Projects I Built From Scratch (and I'm Most Proud Of)
 
 - 🍸 [**Bartttender**](https://bartttender.com/) – Web application for cocktail lovers. Built with React.js, TypeScript, and Vite on the frontend, and Node.js, PostgreSQL, Drizzle ORM, Hono and Traefik on the backend. Uses Docker and Docker Swarm to enable zero-downtime deployment, scalability, and other modern best practices for maintainable development.
-  [GitHub Repo](https://github.com/olga-urentseva/bartender)
-
+  [GitHub Frontend Repo](https://github.com/olga-urentseva/bartender) and [GitHub Backend Repo](https://github.com/olga-urentseva/cocktails-backend-postgres)
 - 📖 [**English Cards**](https://english-cards.netlify.app/) – A web application for learning English (not only actually) vocabulary. Build with React.js, TypeScript and styled-components. Fully tested with React Testing Library and Jest. 
   [GitHub Repo](https://github.com/olga-urentseva/english-cards)
-
 - 🎶 [**Pritcha**](https://pritcha.info/) – A minimalistic static site built with Pug, SASS, semantic HTML and mobile first approach. One of my first ever project. 
   [GitHub Repo](https://github.com/olga-urentseva/pritcha)
 
----
-
-### Skills
+## 💻 Skills
 
 **Languages & Frameworks**  
 React.js, Preact, TypeScript, JavaScript (ES6+), Node.js
@@ -43,12 +36,9 @@ Webpack, Vite, Docker
 **Design Tools**  
 Figma, Adobe Photoshop, Adobe Illustrator, Affinity Design
 
+## 👩‍💻 Work Experience
 
----
-
-### Work Experience
-
-**Frontend Developer**  
+### Frontend Developer
 **Gold Kamea (e-commerce)** — Remote  
 *Feb 2022 – Aug 2023*  
 - Developed and maintained scalable, reusable frontend components using React.js, TypeScript, and SSR.  
@@ -60,8 +50,8 @@ Figma, Adobe Photoshop, Adobe Illustrator, Affinity Design
 - Optimized performance via image compression, lazy loading, and script refactoring, raising Lighthouse scores from ~65 to ~90.  
 - Worked closely with product and marketing teams to transform business goals into user-friendly web features.
 
-**Frontend Developer**  
-**FlatStack (outsourcing company)** — Remote  
+### Frontend Developer
+**FlatStack (outsourcing company)** — Remote
 *Aug 2021 – Jan 2022*  
 - Transformed Figma mockups into fully functional, responsive application features using React.js, TypeScript, and styled-components.  
 - Ensured cross-browser compatibility and consistent user experiences.  
@@ -71,7 +61,7 @@ Figma, Adobe Photoshop, Adobe Illustrator, Affinity Design
 - Shared performance optimization techniques within the frontend department.  
 - Advocated and implemented a migration from JavaScript to TypeScript, improving code quality and productivity.
  
-- **Full-Stack Developer**  
+### Full-Stack Developer
 **Self-employed**  
 *Oct 2019 – Present*  
 - Built all the projects listed above ([Bartttender](https://bartttender.com/), [English Cards](https://english-cards.netlify.app/), and [Pritcha](https://pritcha.info/)) entirely from scratch — from idea to design, implementation, and deployment.  
@@ -80,9 +70,7 @@ Figma, Adobe Photoshop, Adobe Illustrator, Affinity Design
 - Set up full deployment pipelines with Docker, Docker Compose, and Docker Swarm for zero-downtime updates.  
 - Continuously maintained and improved the projects to follow modern best practices.
 
----
-
-### Education and Ongoing Learning
+## 🎓 Education and Ongoing Learning
 
 - **Bachelor's degree in Cultural Studies**, Kazan Federal University, 2015–2019  
 - **Harvard CS50**, Introduction to Computer Science (2020, online)
