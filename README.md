@@ -75,9 +75,8 @@ Figma, Adobe Photoshop, Adobe Illustrator, Affinity Design
 - **Bachelor's degree in Cultural Studies**, Kazan Federal University, 2015–2019  
 - **Harvard CS50**, Introduction to Computer Science (2020, online)
   
-- **Mentoring**. Ongoing programming mentorship with a staff-level full-stack engineer, focused on deepening skills in computer science, full-stack development, and modern deployment processes.(2019 – present)
-- **Self-Education**. Continuously expanding my knowledge through online courses, technical books, and hands-on experience. I build projects from scratch to apply what I learn and explore real-world development, contribute to open source and trying to solve problems with software solutions.
-(2019 – present)
+- **Mentoring**. Ongoing programming mentorship with a staff-level full-stack engineer, focused on deepening skills in computer science, full-stack development, and modern deployment processes (2019 – present)
+- **Self-Education**. Continuously expanding my knowledge through online courses, technical books, and hands-on experience. I build projects from scratch to apply what I learn and explore real-world development, contribute to open source and trying to solve problems with software solutions (2019 – present)
 
 ---
 
