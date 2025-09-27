@@ -38,9 +38,20 @@ Figma, Adobe Photoshop, Adobe Illustrator, Affinity Design
 
 ## 👩‍💻 Work Experience
 
+### Full-Stack Developer
+**Self-employed**  
+*Oct 2019 – Present*  
+- Built all the projects listed above ([Bartttender](https://bartttender.com/), [Magical Advent Calendar](https://magic-advent-calendar.netlify.app/), [English Cards](https://english-cards.netlify.app/), and [Pritcha](https://pritcha.info/)) entirely from scratch — from idea to design, implementation, and deployment.
+- Designed frontend interfaces with React, TypeScript, and modern CSS techniques.  
+- Developed robust backends with Node.js, Hono, PostgreSQL, and Drizzle ORM.  
+- Set up full deployment pipelines with Docker, Docker Compose, and Docker Swarm for zero-downtime updates.  
+- Continuously maintained and improved the projects to follow modern best practices.
+- Working with AI-assisted development (Claude Code, Cursor) to accelerate prototyping, debugging, and architecture decisions.  
+- Built Magic Advent Calendar as a case study in combining AI-driven development with cutting-edge web APIs like the Origin Private File System (OPFS) to handle packaging and unpacking user-generated content.  
+
 ### Frontend Developer
 **Gold Kamea (e-commerce)** — Remote  
-*Feb 2022 – Aug 2023*  
+*Feb 2022 – Jan 2024*  
 - Developed and maintained scalable, reusable frontend components using React.js, TypeScript, and SSR.  
 - Designed and implemented features with a focus on clean and performant code.  
 - Implemented the entire checkout flow, bookmarking capability, and other features that increased user engagement and sales.  
@@ -61,14 +72,6 @@ Figma, Adobe Photoshop, Adobe Illustrator, Affinity Design
 - Shared performance optimization techniques within the frontend department.  
 - Advocated and implemented a migration from JavaScript to TypeScript, improving code quality and productivity.
  
-### Full-Stack Developer
-**Self-employed**  
-*Oct 2019 – Present*  
-- Built all the projects listed above ([Bartttender](https://bartttender.com/), [English Cards](https://english-cards.netlify.app/), and [Pritcha](https://pritcha.info/)) entirely from scratch — from idea to design, implementation, and deployment.  
-- Designed frontend interfaces with React, TypeScript, and modern CSS techniques.  
-- Developed robust backends with Node.js, Hono, PostgreSQL, and Drizzle ORM.  
-- Set up full deployment pipelines with Docker, Docker Compose, and Docker Swarm for zero-downtime updates.  
-- Continuously maintained and improved the projects to follow modern best practices.
 
 ## 🎓 Education and Ongoing Learning
 
