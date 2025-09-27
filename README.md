@@ -42,12 +42,13 @@ Figma, Adobe Photoshop, Adobe Illustrator, Affinity Design
 **Self-employed**  
 *Oct 2019 – Present*  
 - Built all the projects listed above ([Bartttender](https://bartttender.com/), [Magical Advent Calendar](https://magic-advent-calendar.netlify.app/), [English Cards](https://english-cards.netlify.app/), and [Pritcha](https://pritcha.info/)) entirely from scratch — from idea to design, implementation, and deployment.
-- Designed frontend interfaces with React, TypeScript, and modern CSS techniques.  
-- Developed robust backends with Node.js, Hono, PostgreSQL, and Drizzle ORM.  
-- Set up full deployment pipelines with Docker, Docker Compose, and Docker Swarm for zero-downtime updates.  
+- Designed frontend-heavy web applications with React, TypeScript, Vite, and modern CSS techniques.  
+- Developed robust backends with Node.js, Hono, Fastify, PostgreSQL, and Drizzle ORM.  
+- Set up continuous deployment pipelines with Docker, Docker Compose, and Docker Swarm for zero-downtime updates.  
 - Continuously maintained and improved the projects to follow modern best practices.
-- Working with AI-assisted development (Claude Code, Cursor) to accelerate prototyping, debugging, and architecture decisions.  
-- Built Magic Advent Calendar as a case study in combining AI-driven development with cutting-edge web APIs like the Origin Private File System (OPFS) to handle packaging and unpacking user-generated content.  
+- Integrated AI tooling (Claude Code, Cursor) into daily workflow to accelerate prototyping, debugging, and architecture decisions.  
+- Built Magic Advent Calendar as a case study in combining AI-driven development with cutting-edge web APIs like the Origin Private File System (OPFS) to store user-generated content.
+- Established best practices and guardrails for AI era: automated code reviews, MCPs, Cursor rules. 
 
 ### Frontend Developer
 **Gold Kamea (e-commerce)** — Remote  
